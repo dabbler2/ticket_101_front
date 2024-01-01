@@ -1,0 +1,15 @@
+npm i react react-dom
+
+--------------------------------------
+
+지금 폴더 싹 다 옮겨버리는거 너무 부담스러운데?
+일단 그냥 하고 나중에 readme에 넣든지...
+
+예매/취소 시간 처리는 프론트에서 해주는게 나을듯
+
+--------------------------------------
+
+API
+https://docs.google.com/spreadsheets/d/198cPTPr1unbGZWEF4N89uGB4LiTvnLLRlu61Q_gUHx8/edit?pli=1#gid=0
+ERD
+https://drawsql.app/teams/sang-5/diagrams/ticket-101
